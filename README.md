@@ -23,16 +23,19 @@ Nova Virtual Assistant is an interactive C++ program designed to provide a wide 
    ```bash
    git clone https://github.com/your-username/Nova-Virtual-Assistant.git
    
-Navigate to the project directory:
-cd Nova-Virtual-Assistant
+2. Navigate to the project directory:
+   ```bash
+   cd Nova-Virtual-Assistant
 
-Compile the program:
-g++ NovaVirtualAssistant.cpp -o NovaAssistant
+3. Compile the program:
+   ```bash
+   g++ NovaVirtualAssistant.cpp -o NovaAssistant
 
-Run the executable:
-./NovaAssistant
+4. Run the executable:
+   ```bash
+   ./NovaAssistant
 
-Usage
+## Usage
 Upon running, you will be greeted with a main menu offering various sections:
 
 1. Informational Menu – Overview of Nova's features.
